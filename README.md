@@ -1,4 +1,4 @@
-# CPP_BASE Algorithm
+# CPP BASE
 
 **Contents**<br>
 [About](#about)<br>
